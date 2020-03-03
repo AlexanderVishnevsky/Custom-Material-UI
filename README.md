@@ -21,3 +21,12 @@ Made for customization original Material UI components
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AlexanderVishnevsky/Custom-Material-UI?style=flat-square)](https://github.com/AlexanderVishnevsky/Custom-Material-UI/commits/master)
 
 </div>
+
+## Live demo 🎮
+You can see live demo [here](https://custom-material-ui.now.sh) 
+
+## Contributing 🔗
+Read our [contributing guide](/CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to this repository.
+
+## License 📃
+This project is licensed under the terms of the [MIT license](/LICENSE).
