@@ -22,10 +22,11 @@ Made for customization original Material UI components
 
 </div>
 
-## Live demo
+## Live demo 🎮
 You can see live demo [here](https://custom-material-ui.now.sh) 
 
-## Contributing
+## Contributing 🔗
+Read our [contributing guide](/CONTRIBUTING.md) to learn about our development process, how to propose bugfixes and improvements, and how to build and test your changes to this repository.
 
-## License
-This project is licensed under the terms of the MIT license.
+## License 📃
+This project is licensed under the terms of the [MIT license](/LICENSE).
