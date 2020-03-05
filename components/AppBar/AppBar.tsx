@@ -1,6 +1,6 @@
-import React from "react";
-import {AppBar, IconButton, Toolbar} from '@material-ui/core'
-import {useStyles} from "../../styles/AppBar/AppBarStyle";
+import React from 'react';
+import { AppBar, IconButton, Toolbar } from '@material-ui/core';
+import { useStyles } from '../../styles/AppBar/AppBarStyle';
 import MenuIcon from '@material-ui/icons/Menu';
 
 /**
@@ -14,7 +14,7 @@ function AppBarComponent() {
             <AppBar position="static">
                 <Toolbar>
                     <IconButton edge="start" className={classes.menuButton} color="inherit" aria-label="menu">
-                        <MenuIcon/>
+                        <MenuIcon />
                     </IconButton>
                 </Toolbar>
             </AppBar>
