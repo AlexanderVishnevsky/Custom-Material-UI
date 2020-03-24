@@ -15,7 +15,9 @@ module.exports = {
         },
     },
     rules: {
-        'linebreak-style': ['error', 'windows'],
+        "linebreak-style": 0,
+        "global-require": 0,
+        "eslint linebreak-style": [0, "error", "windows"],
         semi: ['error', 'always'],
         'max-lines': [
             //Max lines in file
