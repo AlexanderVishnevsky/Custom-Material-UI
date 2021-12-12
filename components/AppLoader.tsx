@@ -49,7 +49,7 @@ export const LoaderApp = (): JSX.Element => (
     </Box>
 );
 
-const useStylesFacebook = makeStyles((theme: Theme) =>
+const useStylesFacebook = makeStyles(() =>
     createStyles({
         root: {
             display: 'flex',
